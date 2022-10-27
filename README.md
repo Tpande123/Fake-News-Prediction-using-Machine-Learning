@@ -37,4 +37,4 @@ The different steps involved are  ->
 
 ## Link to the datasets used: -
 
-The dataset sonar data.csv used here can be accessed via the link -> https://www.kaggle.com/c/fake-news/data?select=train.csv
+The dataset train.csv used here can be accessed via the link -> https://www.kaggle.com/c/fake-news/data?select=train.csv
